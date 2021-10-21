@@ -1,0 +1,18 @@
+.formContainer{
+    flex:4;
+}
+.formWrapper{
+    padding:20px;
+    width:60%;
+    margin:auto;
+}
+.formCont{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    margin:20px;
+}
+.InputBox,.InputButton{
+    padding:10px;
+    margin:10px;
+}

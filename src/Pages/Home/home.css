@@ -1,0 +1,32 @@
+.homeWrapper{
+    
+}
+.TopContainer{
+    display:flex;
+}
+.filterContainer{
+    flex:0.5;
+}
+.formDiv{
+  flex:0.5;
+}
+.filterWrapper{
+    width:60%;
+    margin-left:30%;
+}
+.filterWrapper,.GenderFilter,.CityFilter{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    margin:20px;
+}
+.filterButton,.cityInput{
+    padding:10px;
+    margin:10px;
+}
+.cityInput{
+    width:87%;
+}
+
+
+

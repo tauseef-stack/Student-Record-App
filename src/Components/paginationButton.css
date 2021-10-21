@@ -1,0 +1,9 @@
+.buttonWrapper{
+    display: flex;
+    align-items: center;
+    padding:20px;
+}
+.paginationButton{
+    padding:10px;
+    
+}

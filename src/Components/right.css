@@ -1,0 +1,14 @@
+.rightContainer{
+    flex:8;
+   
+}
+.rightWrapper{
+padding:20px;
+}
+.singleStudentContainer{
+    display: flex;
+   
+    align-items:center;
+    justify-content:space-around;
+    background-color:aqua;
+}
